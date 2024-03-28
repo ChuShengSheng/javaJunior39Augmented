@@ -17,4 +17,5 @@ public class Homework1 {
         System.out.println(countCandyBuy);
         System.out.println(restOfMoney);
     }
+
 }
